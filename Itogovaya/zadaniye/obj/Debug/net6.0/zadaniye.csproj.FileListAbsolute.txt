@@ -1,0 +1,15 @@
+C:\Users\maksi\Desktop\Itogovaya\zadaniye\bin\Debug\net6.0\zadaniye.exe
+C:\Users\maksi\Desktop\Itogovaya\zadaniye\bin\Debug\net6.0\zadaniye.deps.json
+C:\Users\maksi\Desktop\Itogovaya\zadaniye\bin\Debug\net6.0\zadaniye.runtimeconfig.json
+C:\Users\maksi\Desktop\Itogovaya\zadaniye\bin\Debug\net6.0\zadaniye.dll
+C:\Users\maksi\Desktop\Itogovaya\zadaniye\bin\Debug\net6.0\zadaniye.pdb
+C:\Users\maksi\Desktop\Itogovaya\zadaniye\obj\Debug\net6.0\zadaniye.csproj.AssemblyReference.cache
+C:\Users\maksi\Desktop\Itogovaya\zadaniye\obj\Debug\net6.0\zadaniye.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksi\Desktop\Itogovaya\zadaniye\obj\Debug\net6.0\zadaniye.AssemblyInfoInputs.cache
+C:\Users\maksi\Desktop\Itogovaya\zadaniye\obj\Debug\net6.0\zadaniye.AssemblyInfo.cs
+C:\Users\maksi\Desktop\Itogovaya\zadaniye\obj\Debug\net6.0\zadaniye.csproj.CoreCompileInputs.cache
+C:\Users\maksi\Desktop\Itogovaya\zadaniye\obj\Debug\net6.0\zadaniye.dll
+C:\Users\maksi\Desktop\Itogovaya\zadaniye\obj\Debug\net6.0\refint\zadaniye.dll
+C:\Users\maksi\Desktop\Itogovaya\zadaniye\obj\Debug\net6.0\zadaniye.pdb
+C:\Users\maksi\Desktop\Itogovaya\zadaniye\obj\Debug\net6.0\zadaniye.genruntimeconfig.cache
+C:\Users\maksi\Desktop\Itogovaya\zadaniye\obj\Debug\net6.0\ref\zadaniye.dll
